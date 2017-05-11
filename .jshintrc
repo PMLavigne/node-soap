@@ -1,6 +1,7 @@
 {
   "bitwise":false,
   "boss":true,
+  "browser": true,
   "expr":true,
   "camelcase":false,
   "curly":false,
